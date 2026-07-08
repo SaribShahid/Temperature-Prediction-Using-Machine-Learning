@@ -268,8 +268,5 @@ This project is licensed under the MIT License.
 
 # Acknowledgements
 
-This project was developed for academic learning and to demonstrate practical implementation of machine learning techniques for temperature prediction.
-
----
 
 This project was developed for academic learning and to demonstrate practical implementation of machine learning techniques for temperature prediction.
